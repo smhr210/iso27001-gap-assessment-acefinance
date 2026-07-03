@@ -1,0 +1,25 @@
+Phase,Control_ID,Domain,Action,Owner,Timeline_Days,Priority,Status
+30-Day,A.8.2,Access Control,Implement quarterly privileged access review process using existing VLAN 40 segmentation,IT Manager,30,Critical,Open
+30-Day,A.5.19,Supplier Relationships,Adopt structured vendor risk assessment framework aligned to NIST CSF for all new vendor onboarding,Security Lead,30,Critical,Open
+30-Day,A.5.16,Access Control,Implement 24-hour account deprovisioning SLA tied to HR offboarding process,IT Manager,30,High,Open
+30-Day,A.5.17,Access Control,Enforce MFA organisation-wide and publish formal password standard,IT Manager,30,High,Open
+30-Day,A.8.5,Access Control,Mandate MFA for all privileged and remote access accounts immediately,IT Manager,30,High,Open
+30-Day,A.8.4,Access Control,Implement branch protection rules and mandatory code review gates on all GitHub repositories,Dev Lead,30,Medium,Open
+30-Day,A.5.11,Asset Management,Create offboarding asset-return checklist and integrate with HR offboarding workflow,HR Lead,30,Medium,Open
+30-Day,A.5.15,Access Control,Draft and publish formal Access Control Policy referencing existing VLAN segmentation design,Security Lead,30,Medium,Open
+60-Day,A.5.24,Incident Management,Develop and obtain management approval for formal Incident Response Plan,Security Lead,60,High,Open
+60-Day,A.5.25,Incident Management,Define severity classification matrix and escalation criteria for security events,Security Lead,60,Medium,Open
+60-Day,A.5.18,Access Control,Implement quarterly access recertification process for all user accounts,Security Lead,60,Medium,Open
+60-Day,A.5.20,Supplier Relationships,Develop standard security addendum for all vendor contracts covering breach notification audit rights and data protection,Legal/Security Lead,60,Medium,Open
+60-Day,A.5.12,Asset Management,Standardise data classification labels across all assets and assign classification owners,IT Manager,60,Medium,Open
+60-Day,A.5.26,Incident Management,Build containment and recovery runbooks for top 3 incident types,Security Lead,60,Medium,Open
+60-Day,A.5.14,Asset Management,Publish data transfer and handling policy governing email and file sharing,Security Lead,60,Medium,Open
+60-Day,A.5.21,Supplier Relationships,Require sub-processor disclosure from all critical vendors as part of due diligence,Security Lead,60,Medium,Open
+60-Day,A.5.23,Supplier Relationships,Publish Cloud Security Policy covering SaaS approval process and usage standards,IT Manager,60,Medium,Open
+60-Day,A.8.3,Access Control,Formalise existing firewall ruleset as a documented and version-controlled access control artifact,IT Manager,60,Low,Open
+90-Day,A.5.22,Supplier Relationships,Implement annual vendor reassessment cycle for all active suppliers,Security Lead,90,Medium,Open
+90-Day,A.5.9,Asset Management,Assign formal asset inventory owner and establish quarterly refresh cadence,IT Manager,90,Low,Open
+90-Day,A.5.10,Asset Management,Draft and distribute Acceptable Use Policy to all staff and contractors,IT Manager,90,Low,Open
+90-Day,A.5.13,Asset Management,Define and roll out information labelling standard aligned to classification scheme,IT Manager,90,Low,Open
+90-Day,A.5.27,Incident Management,Implement mandatory post-incident review template and process,Security Lead,90,Low,Open
+90-Day,A.5.28,Incident Management,Document evidence collection and chain-of-custody procedure for forensic activities,Security Lead,90,Low,Open

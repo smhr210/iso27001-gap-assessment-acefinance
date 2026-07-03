@@ -1,0 +1,25 @@
+Control_ID,Domain,Requirement,Current_State,Maturity_Score,Likelihood,Impact,Risk_Score,Risk_Rating
+A.5.9,Asset Management,Documented inventory of information assets maintained,Asset inventory exists from network documentation project,3,2,3,6,Low
+A.5.10,Asset Management,Acceptable use of assets defined and communicated,No formal acceptable use policy distributed to staff,1,3,2,6,Low
+A.5.11,Asset Management,Assets returned upon termination of employment,No documented offboarding asset-return checklist,1,3,3,9,Medium
+A.5.12,Asset Management,Information classified per sensitivity/criticality,Asset inventory has classification field but inconsistently applied,2,3,4,12,Medium
+A.5.13,Asset Management,Labelling of information per classification scheme,No labelling scheme implemented,0,2,2,4,Low
+A.5.14,Asset Management,Information transfer rules established,Email and file transfer occur without formal data handling rules,1,3,3,9,Medium
+A.5.15,Access Control,Access control policy established and reviewed,VLAN segmentation exists but no formal access control policy document,2,3,4,12,Medium
+A.5.16,Access Control,Full lifecycle of identities managed,No documented offboarding deprovisioning process or SLA,1,4,4,16,High
+A.5.17,Access Control,Allocation and management of authentication information,Passwords used with no formal password policy or MFA mandate,1,4,4,16,High
+A.5.18,Access Control,Access rights provisioned reviewed and revoked per policy,Access granted ad hoc with no periodic review,1,3,4,12,Medium
+A.8.2,Access Control,Privileged access rights restricted and managed,VLAN 40 exists but no review cadence for privileged accounts,2,4,5,20,Critical
+A.8.3,Access Control,Information access restriction enforced per policy,Restriction enforced via firewall rules but not documented as formal control,3,2,3,6,Low
+A.8.4,Access Control,Access to source code formally managed,Developers have unrestricted repo access with no branch protection,1,3,3,9,Medium
+A.8.5,Access Control,Secure authentication procedures implemented,Standard username/password auth with no MFA enforced,1,4,4,16,High
+A.5.24,Incident Management,Incident management planning and preparation defined,No formal incident response plan documented,0,3,5,15,High
+A.5.25,Incident Management,Assessment and decision on information security events,Incidents handled informally with no triage criteria,1,3,4,12,Medium
+A.5.26,Incident Management,Response to information security incidents documented,No documented containment/eradication/recovery procedures,1,3,4,12,Medium
+A.5.27,Incident Management,Lessons learned from incidents captured and applied,No post-incident review process exists,0,2,3,6,Low
+A.5.28,Incident Management,Procedures for collection of evidence established,No formal evidence handling or chain-of-custody procedure,0,2,3,6,Low
+A.5.19,Supplier Relationships,Information security in supplier relationships addressed,No formal vendor security review process,1,4,5,20,Critical
+A.5.20,Supplier Relationships,Security requirements agreed within supplier agreements,Contracts lack standard security and data protection clauses,1,3,4,12,Medium
+A.5.21,Supplier Relationships,Managing security in the ICT supply chain,No visibility into sub-processors used by critical vendors,1,3,3,9,Medium
+A.5.22,Supplier Relationships,Monitoring review and change management of supplier services,No ongoing monitoring of vendor security posture post-onboarding,1,3,3,9,Medium
+A.5.23,Supplier Relationships,Information security for use of cloud services,Cloud services used without formal cloud security policy,1,3,4,12,Medium
